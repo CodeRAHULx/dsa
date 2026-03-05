@@ -1,5 +1,10 @@
 // Q3: Find the smallest missing positive number
 // Given an array, find the smallest positive integer missing from the array.
+// Q4: Find the first repeating element in an array
+// Q5: Find the equilibrium index of an array
+// Q6: Find the maximum element in an array
+// Q7: Find the majority element in an array (element that appears more than n/2 times)
+// Q8: Find the smallest missing positive number using O(1) space (challenge)
 public class SmallestMissingPositive {
     public static int findMissing(int[] arr) {
         int n = arr.length;
