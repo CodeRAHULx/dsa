@@ -1,3 +1,5 @@
+package stilltosolve;
+
 // Q3: Find the smallest missing positive number
 // Given an array, find the smallest positive integer missing from the array.
 // Q4: Find the first repeating element in an array

@@ -1,3 +1,5 @@
+package stilltosolve;
+
 // Q4: Find the majority element in an array
 // Given an array, find the element that appears more than n/2 times.
 public class MajorityElement {

@@ -19,4 +19,3 @@ public class sumofallelements {
 
 
 }
-git

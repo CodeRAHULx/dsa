@@ -1,4 +1,4 @@
-// Q: Find the length of the longest consecutive sequence in an array
+package stilltosolve;// Q: Find the length of the longest consecutive sequence in an array
 // Given an unsorted array, find the length of the longest consecutive elements sequence.
 import java.util.HashSet;
 public class LongestConsecutiveSequence {

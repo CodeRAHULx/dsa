@@ -1,3 +1,5 @@
+package stilltosolve;
+
 // Q: Find leaders in an array
 // An element is a leader if it is greater than all elements to its right.
 public class FindLeaders {

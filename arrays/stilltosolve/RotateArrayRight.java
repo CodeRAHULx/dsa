@@ -1,3 +1,5 @@
+package stilltosolve;
+
 // Q: Rotate an array to the right by k steps
 // Given an array, rotate it to the right by k steps.
 public class RotateArrayRight {

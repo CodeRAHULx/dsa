@@ -1,3 +1,5 @@
+package stilltosolve;
+
 // Q1: Find the longest subarray with sum K
 // Given an array and an integer K, find the length of the longest subarray whose sum is K.
 public class LongestSubarraySumK {

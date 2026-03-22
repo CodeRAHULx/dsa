@@ -1,3 +1,5 @@
+package stilltosolve;
+
 // Q: Find the missing and repeating number in an array
 // Given an array of size n containing numbers from 1 to n, one number is missing and one is repeating. Find both.
 public class FindMissingAndRepeating {

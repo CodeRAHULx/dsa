@@ -1,4 +1,4 @@
-// Q: Count pairs with a given sum
+package stilltosolve;// Q: Count pairs with a given sum
 // Given an array and a value k, count the number of pairs with sum equal to k.
 import java.util.HashMap;
 public class CountPairsWithSum {
